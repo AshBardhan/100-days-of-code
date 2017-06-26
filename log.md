@@ -19,4 +19,15 @@
 **Thoughts**: Tutorials by Jenkov are more comprehrensive and really helpful for intermediate level coders. I had fun while coding in SVG, though it was challening at the beginning. But coding CSS images really helped me out here as I always have the appraoch of figuring out common patterns before jumping to code. And besides, it took me almost 2 hours to get those curves right. :P
 
 **Link(s) to work**
-1. [Peacock SVG at Codepen](https://codepen.io/AshBardhan/details/bRogLR)
+1. [Peacock SVG | Codepen](https://codepen.io/AshBardhan/details/bRogLR)
+
+### Day 3: June 26, 2017 (Monday)
+
+**Today's Progress**:
+1. Learned SVG animation
+2. Added animations on the previously made "Peacock" SVG at Codepen
+
+**Thoughts**: I always love to make animations in CSS. So I gave it a shot in SVG as well. It is interesting and bit challenging. But too many elements and attributes have to be put inside the code to make it work, especially on reusable elements with minor tweaks. I feel CSS animation is better and it's great in SCSS. I'll try to do that way tomorrow. Anyways, Eid Mubarak everybody! :)
+
+**Link(s) to work**
+1. [Peacock SVG - Animated | Codepen](https://codepen.io/AshBardhan/details/owGVXJ/)
