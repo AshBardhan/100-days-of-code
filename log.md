@@ -31,3 +31,14 @@
 
 **Link(s) to work**
 1. [Peacock SVG - Animated | Codepen](https://codepen.io/AshBardhan/details/owGVXJ/)
+
+### Day 4: June 27, 2017 (Tuesday)
+
+**Today's Progress**:
+1. Separated the animation logic from the previously made "Peacock" SVG and added it in CSS.
+2. Applied [BEM appraoch](https://css-tricks.com/bem-101/) while naming CSS classes.
+
+**Thoughts**: The code seems neat now (especially the SVG), but the Line of code has increased overall. However, you do have a separate control while animating (especially on common elements like - green feathers of the peacock). Another thing I've noticed that the green feathers get repainted in pure SVG code while toggling tabs, but not in CSS animations. Still gotta make my source code shorter by using SCSS later on.
+
+**Link(s) to work**
+1. [Peacock SVG + CSS - Animated | Codepen](https://codepen.io/AshBardhan/details/rwYEPK/)
