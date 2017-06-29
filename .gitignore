@@ -1,0 +1,8 @@
+# Created by .gitignore support plugin (hsz.mobi)
+
+### OSX ###
+.DS_Store
+
+### PhPStorm / IntellJ IDEA ###
+.idea/
+*.iml
