@@ -38,7 +38,22 @@
 1. Separated the animation logic from the previously made "Peacock" SVG and added it in CSS.
 2. Applied [BEM appraoch](https://css-tricks.com/bem-101/) while naming CSS classes.
 
-**Thoughts**: The code seems neat now (especially the SVG), but the Line of code has increased overall. However, you do have a separate control while animating (especially on common elements like - green feathers of the peacock). Another thing I've noticed that the green feathers get repainted in pure SVG code while toggling tabs, but not in CSS animations. Still gotta make my source code shorter by using SCSS later on.
+**Thoughts**: The code seems neat now (especially the SVG), but the Line of code (LoC) has increased overall. However, you do have a separate control while animating (especially on common elements like - green feathers of the peacock). Another thing I've noticed that the green feathers get repainted in pure SVG code while toggling tabs, but not in CSS animations. Still gotta make my source code shorter by using SCSS later on.
 
 **Link(s) to work**
 1. [Peacock SVG + CSS - Animated | Codepen](https://codepen.io/AshBardhan/details/rwYEPK/)
+
+### Day 5: June 28, 2017 (Wednesday)
+
+**Today's Progress**:
+1. Optimized my CSS animations in "Peacock" SVG, using SCSS preprocessor.
+2. Discovered the problem behind [repainting of SVG animated peacock feathers](https://twitter.com/CreativeBakchod/status/879911856793567232). Had to [initialize position on every component](https://twitter.com/CreativeBakchod/status/880282925639507968) to avoid repainting. That's a bummer! :P
+
+**Thoughts**: Well coding in SCSS is really fun. You can do a lot programming using SCSS, especially loops, nesting, string concatenation and arithmetic operations. It is helpful when you've some components having common design pattern (sometimes minor tweaks in position or animations though). And for BEM lovers, this is best thing you can ever have. Just check my code mentioned in the links below and you'll know why. ;)
+
+Also, my LoC has been reduced from 81 to 48. That's better, cleaner and prettier.
+[Ahh! I love it](http://i1.kym-cdn.com/photos/images/newsfeed/000/591/928/94f.png)
+
+**Link(s) to work**
+1. [Peacock SVG + SCSS - Animated | Codepen](https://codepen.io/AshBardhan/details/xrpyor/)
+2. [Peacock SVG - Animated (no more repainting) | Codepen](https://codepen.io/AshBardhan/details/owGVXJ/)
