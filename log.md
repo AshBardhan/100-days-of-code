@@ -57,3 +57,18 @@ Also, my LoC has been reduced from 81 to 48. That's better, cleaner and prettier
 **Link(s) to work**
 1. [Peacock SVG + SCSS - Animated | Codepen](https://codepen.io/AshBardhan/details/xrpyor/)
 2. [Peacock SVG - Animated (no more repainting) | Codepen](https://codepen.io/AshBardhan/details/owGVXJ/)
+
+### Day 6: July 3, 2017 (Monday)
+
+**Today's Progress**:
+1. Purchased a new domain and hosting for making my sister's new fashion blog.
+2. Completed Wordpress setup on new hosting and migrated blog data from her previous blog. 
+
+**Thoughts**: I was busy for few days on the tasks mentioned above. This is first time I've purhased any hosting or domain, and getting my hands dirty on their platforms. For making a blog, I prefer Github pages or free Wordpress. But my sister needed more bandwidth and disk space for her blog, which a hosting service can provide. Based on her requirements, we bought domain from [GoDaddy](https://in.godaddy.com/) and hosting from [Bluehost](https://www.bluehost.in/). I purchased Linux-based hosting with a capacity of handling 3 domains (first domain already had a setup for her blog, while saving other two for future).
+
+PS: I'm planning the same for my blog and portfolio site. But I will manually code and integrate with github pages. Will get into it as soon as I'm finished with her blog setup. So Chill!
+
+![Just Chill](http://s2.quickmeme.com/img/1c/1c5d8711c98ed915385ff723dd1d5d4931105e59dc3b33776c1058062e4249fe.jpg)
+
+**Link(s) to work**
+1. [Web Hosting Guide](https://www.webhostingsecretrevealed.net/web-hosting-beginner-guide/)
