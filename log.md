@@ -72,3 +72,13 @@ PS: I'm planning the same for my blog and portfolio site. But I will manually co
 
 **Link(s) to work**
 1. [Web Hosting Guide](https://www.webhostingsecretrevealed.net/web-hosting-beginner-guide/)
+
+### Day 7: July 4, 2017 (Tuesday)
+
+**Today's Progress**: Getting started with HTML5 Canvas.
+
+**Thoughts**: Just like SVG, I've also thought of learning and pracitising the basics of HTML5 Canvas. Discovered some similar concepts (rectange, fill, stroke and methods of making a line, curve etc). Just minor changes in the syntax. But unlike SVG, the canvas is painted in raster-form which will break the sharpness of an element being made. Not so cool! :P
+
+**Link(s) to work**
+1. [HTML5 Canvas Tutorial Reference | Jenkov](http://tutorials.jenkov.com/html5-canvas/index.html)
+2. [HTML5 Canvas Tutorial Reference | W3C Schools](https://www.w3schools.com/graphics/canvas_intro.asp)
