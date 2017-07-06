@@ -4,7 +4,7 @@
 
 **Today's Progress**: Getting started with SVG.
 
-**Thoughts**: I've been thinking about this for a long time. Just learning and pracitising the basics. I'm hoping to make some really awesome art using SVG in future. Perhaps coding CSS images is too mainstream for me now. :P
+**Thoughts**: I've been thinking about this for a long time. Just learning and practising the basics. I'm hoping to make some really awesome art using SVG in future. Perhaps coding CSS images is too mainstream for me now. :P
 
 **Link(s) to work**
 1. [SVG Tutorial Reference | Jenkov](http://tutorials.jenkov.com/svg/index.html)
@@ -16,7 +16,7 @@
 1. Learned SVG elements are their attributes
 2. Created an image of "Peacock" in SVG at Codepen
 
-**Thoughts**: Tutorials by Jenkov are more comprehrensive and really helpful for intermediate level coders. I had fun while coding in SVG, though it was challening at the beginning. But coding CSS images really helped me out here as I always have the appraoch of figuring out common patterns before jumping to code. And besides, it took me almost 2 hours to get those curves right. :P
+**Thoughts**: Tutorials by Jenkov are more comprehensive and really helpful for intermediate level coders. I had fun while coding in SVG, though it was challenging at the start. But coding CSS images really helped me out here as I always have the approach of figuring out common patterns before jumping to code. And besides, it took me almost 2 hours to get those curves right. :P
 
 **Link(s) to work**
 1. [Peacock SVG | Codepen](https://codepen.io/AshBardhan/details/bRogLR)
@@ -64,9 +64,9 @@ Also, my LoC has been reduced from 81 to 48. That's better, cleaner and prettier
 1. Purchased a new domain and hosting for making my sister's new fashion blog.
 2. Completed Wordpress setup on new hosting and migrated blog data from her previous blog. 
 
-**Thoughts**: I was busy for few days on the tasks mentioned above. This is first time I've purhased any hosting or domain, and getting my hands dirty on their platforms. For making a blog, I prefer Github pages or free Wordpress. But my sister needed more bandwidth and disk space for her blog, which a hosting service can provide. Based on her requirements, we bought domain from [GoDaddy](https://in.godaddy.com/) and hosting from [Bluehost](https://www.bluehost.in/). I purchased Linux-based hosting with a capacity of handling 3 domains (first domain already had a setup for her blog, while saving other two for future).
+**Thoughts**: I was busy for few days on the tasks mentioned above. This is first time I've purchased any hosting or domain, and getting my hands dirty on their platforms. For making a blog, I prefer Github pages or free Wordpress. But my sister needed more bandwidth and disk space for her blog, which a hosting service can provide. Based on her requirements, we bought domain from [GoDaddy](https://in.godaddy.com/) and hosting from [Bluehost](https://www.bluehost.in/). I purchased Linux-based hosting with a capacity of handling 3 domains (first domain already had a setup for her blog, while saving other two for future).
 
-PS: I'm planning the same for my blog and portfolio site. But I will manually code and integrate with github pages. Will get into it as soon as I'm finished with her blog setup. So Chill!
+PS: I'm planning the same for my blog and portfolio site. But I will manually code and integrate with Github pages. Will get into it as soon as I'm finished with her blog setup. So Chill!
 
 ![Just Chill](http://s2.quickmeme.com/img/1c/1c5d8711c98ed915385ff723dd1d5d4931105e59dc3b33776c1058062e4249fe.jpg)
 
@@ -77,8 +77,19 @@ PS: I'm planning the same for my blog and portfolio site. But I will manually co
 
 **Today's Progress**: Getting started with HTML5 Canvas.
 
-**Thoughts**: Just like SVG, I've also thought of learning and pracitising the basics of HTML5 Canvas. Discovered some similar concepts (rectange, fill, stroke and methods of making a line, curve etc). Just minor changes in the syntax. But unlike SVG, the canvas is painted in raster-form which will break the sharpness of an element being made. Not so cool! :P
+**Thoughts**: Just like SVG, I've also thought of learning and practising the basics of HTML5 Canvas. Discovered some similar concepts (rectangle, fill, stroke and methods of making a line, curve etc). Just minor changes in the syntax. But unlike SVG, the canvas is painted in raster-form which will break the sharpness of an element being made. Not so cool! :P
 
 **Link(s) to work**
 1. [HTML5 Canvas Tutorial Reference | Jenkov](http://tutorials.jenkov.com/html5-canvas/index.html)
 2. [HTML5 Canvas Tutorial Reference | W3C Schools](https://www.w3schools.com/graphics/canvas_intro.asp)
+
+### Day 8: July 6, 2017 (Thursday)
+
+**Today's Progress**:
+1. Learned some more concepts on HTML5 Canvas
+2. Created the same image of "Peacock" in HTML5 Canvas at Codepen.
+
+**Thoughts**: Like I mentioned in my previous post about raster painting and blurriness of HTML5 canvas. Well it really showed after making that [same peacock](https://codepen.io/AshBardhan/details/bRogLR). Applied the modular and iterative logic for components, which I've used previously in my [animated SVG + CSS peacock](https://codepen.io/AshBardhan/details/rwYEPK/). So therefore, no problem in setting coordinates for the every component. But I had a bit struggle which applying transformation on any component as it is dependent on the previous component's position. So I had to reset the transformation in the end of making of new component. Yeah! The hard paid off and I was able to make it. But still, the curves aren't looking nice bruh! :P
+
+**Link(s) to work**
+1. [Peacock HTML5 Canvas | Codepen](https://codepen.io/AshBardhan/details/pwZBbM/)
