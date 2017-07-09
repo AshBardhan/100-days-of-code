@@ -93,3 +93,18 @@ PS: I'm planning the same for my blog and portfolio site. But I will manually co
 
 **Link(s) to work**
 1. [Peacock HTML5 Canvas | Codepen](https://codepen.io/AshBardhan/details/pwZBbM/)
+
+### Day 9: July 8, 2017 (Saturday)
+
+**Today's Progress**:
+1. Wrote some additional CSS to fix position of some external plugins inside my sister's fashion blog.
+
+**Thoughts**: Wordpress provides a lot free themes to for your blog. And since I've already purchased a hosting service and installed Wordpress in it, most of their paid themes have been unlocked. Plus, it also gives you the power to customize CSS both internally and externally.
+
+Currently, I've experimented with some themes which provides a lot of CSS rules for page layout and basic components required for the blog. But sometimes, the CSS for some of the external plugins are not provided by such themes. So this is where I've to add some CSS on my own. Applying this, I was able to apply the custom CSS rules on required plugins, overriding the default ones.
+
+PS: The blog is still under-construction and confidential. I'll share the link as soon as I complete this project and go live. :) 
+
+**Link(s) to work**
+1. [Wordpress CSS Reference](https://codex.wordpress.org/CSS)
+2. [Customize CSS Reference](https://en.support.wordpress.com/custom-design/editing-css/)
