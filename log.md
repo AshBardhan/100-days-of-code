@@ -108,3 +108,15 @@ PS: The blog is still under-construction and confidential. I'll share the link a
 **Link(s) to work**
 1. [Wordpress CSS Reference](https://codex.wordpress.org/CSS)
 2. [Customize CSS Reference](https://en.support.wordpress.com/custom-design/editing-css/)
+
+### Day 10: July 9, 2017 (Sunday)
+
+**Today's Progress**:
+1. Created a temporary maintenance page on my sister's blog.
+2. Edited `.htaccess` config file, which will redirect to maintenance page when someone else is accessing the home page.
+
+**Thoughts**: Since this blog is under-construction and confidential, I have to make sure it is only accessible by me and my sister's system during development. So I added some code into the `.htaccess` file, allowing our IP addresses only to access the whole website while others will be redirected to our maintenance page. 
+
+**Link(s) to work**
+1. [htaccess | Wordpress Reference](https://codex.wordpress.org/htaccess)
+2. [htaccess | bluehost Reference](https://my.bluehost.com/cgi/help/htaccess)
