@@ -120,3 +120,17 @@ PS: The blog is still under-construction and confidential. I'll share the link a
 **Link(s) to work**
 1. [htaccess | Wordpress Reference](https://codex.wordpress.org/htaccess)
 2. [htaccess | bluehost Reference](https://my.bluehost.com/cgi/help/htaccess)
+
+### Day 11: July 10, 2017 (Monday)
+
+**Today's Progress**:
+1. Minor UI fixes on my sister's blog, after selecting a theme
+2. Learned about SSH access and generated SSH keys in my cPanel account.
+3. Connected to a Shared Server of my sister's blog via SSH remotely from my laptop. 
+
+**Thoughts**: Digging deeper into backend fo a while. Using SSH, I'm now easily able to access files of my sister's blog (which is present inside `public_html` folder). Don't need change file(s) on the Cpanel File Manager interface anymore. However, I'm planning to create a private repo at Bitbucket storing only files inside `public_html` blog folder and syncing with corresponding cPanel files via SSH keys.  
+
+**Link(s) to work**
+1. [SSH Command Reference](https://www.ssh.com/ssh/command/)
+2. [SSH Access | bluehost Reference](https://my.bluehost.com/cgi/help/180)
+3. [Connecting to a Shared Server SSH with a Mac](http://www.inmotionhosting.com/support/website/ssh/shared-server-ssh-mac)
