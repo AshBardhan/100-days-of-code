@@ -141,4 +141,4 @@ PS: The blog is still under-construction and confidential. I'll share the link a
 **Thoughts**: Gave myself a Birthday Treat. :P  
 
 **Link(s) to work**
-1. [BardhanMania 26 - 7 Segment LED | Codepen](http://www.inmotionhosting.com/support/website/ssh/shared-server-ssh-mac)
+1. [BardhanMania 26 - 7 Segment LED | Codepen](https://codepen.io/AshBardhan/details/RgqXBp/)
