@@ -96,8 +96,7 @@ PS: I'm planning the same for my blog and portfolio site. But I will manually co
 
 ### Day 9: July 8, 2017 (Saturday)
 
-**Today's Progress**:
-1. Wrote some additional CSS to fix position of some external plugins inside my sister's fashion blog.
+**Today's Progress**: Wrote some additional CSS to fix position of some external plugins inside my sister's fashion blog.
 
 **Thoughts**: Wordpress provides a lot free themes to for your blog. And since I've already purchased a hosting service and installed Wordpress in it, most of their paid themes have been unlocked. Plus, it also gives you the power to customize CSS both internally and externally.
 
@@ -134,3 +133,12 @@ PS: The blog is still under-construction and confidential. I'll share the link a
 1. [SSH Command Reference](https://www.ssh.com/ssh/command/)
 2. [SSH Access | bluehost Reference](https://my.bluehost.com/cgi/help/180)
 3. [Connecting to a Shared Server SSH with a Mac](http://www.inmotionhosting.com/support/website/ssh/shared-server-ssh-mac)
+
+### Day 12: July 11, 2017 (Tuesday)
+
+**Today's Progress**: Made a special art at Codepen using Pug (formerly Jade) and SCSS, dedicated to my 26th Birthday. 
+
+**Thoughts**: Gave myself a Birthday Treat. :P  
+
+**Link(s) to work**
+1. [BardhanMania 26 - 7 Segment LED | Codepen](http://www.inmotionhosting.com/support/website/ssh/shared-server-ssh-mac)
