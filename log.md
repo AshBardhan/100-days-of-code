@@ -13,8 +13,8 @@
 ### Day 2: June 25, 2017 (Sunday)
 
 **Today's Progress**:
-1. Learned SVG elements are their attributes
-2. Created an image of "Peacock" in SVG at Codepen
+1. Learned SVG elements are their attributes.
+2. Created an image of "Peacock" in SVG at Codepen.
 
 **Thoughts**: Tutorials by Jenkov are more comprehensive and really helpful for intermediate level coders. I had fun while coding in SVG, though it was challenging at the start. But coding CSS images really helped me out here as I always have the approach of figuring out common patterns before jumping to code. And besides, it took me almost 2 hours to get those curves right. :P
 
@@ -24,8 +24,8 @@
 ### Day 3: June 26, 2017 (Monday)
 
 **Today's Progress**:
-1. Learned SVG animation
-2. Added animations on the previously made "Peacock" SVG at Codepen
+1. Learned SVG animation.
+2. Added animations on the previously made "Peacock" SVG at Codepen.
 
 **Thoughts**: I always love to make animations in CSS. So I gave it a shot in SVG as well. It is interesting and bit challenging. But too many elements and attributes have to be put inside the code to make it work, especially on reusable elements with minor tweaks. I feel CSS animation is better and it's great in SCSS. I'll try to do that way tomorrow. Anyways, Eid Mubarak everybody! :)
 
@@ -86,7 +86,7 @@ PS: I'm planning the same for my blog and portfolio site. But I will manually co
 ### Day 8: July 6, 2017 (Thursday)
 
 **Today's Progress**:
-1. Learned some more concepts on HTML5 Canvas
+1. Learned some more concepts on HTML5 Canvas.
 2. Created the same image of "Peacock" in HTML5 Canvas at Codepen.
 
 **Thoughts**: Like I mentioned in my previous post about raster painting and blurriness of HTML5 canvas. Well it really showed after making that [same peacock](https://codepen.io/AshBardhan/details/bRogLR). Applied the modular and iterative logic for components, which I've used previously in my [animated SVG + CSS peacock](https://codepen.io/AshBardhan/details/rwYEPK/). So therefore, no problem in setting coordinates for the every component. But I had a bit struggle which applying transformation on any component as it is dependent on the previous component's position. So I had to reset the transformation in the end of making of new component. Yeah! The hard paid off and I was able to make it. But still, the curves aren't looking nice bruh! :P
@@ -123,11 +123,11 @@ PS: The blog is still under-construction and confidential. I'll share the link a
 ### Day 11: July 10, 2017 (Monday)
 
 **Today's Progress**:
-1. Minor UI fixes on my sister's blog, after selecting a theme
+1. Minor UI fixes on my sister's blog, after selecting a theme.
 2. Learned about SSH access and generated SSH keys in my cPanel account.
 3. Connected to a Shared Server of my sister's blog via SSH remotely from my laptop. 
 
-**Thoughts**: Digging deeper into backend fo a while. Using SSH, I'm now easily able to access files of my sister's blog (which is present inside `public_html` folder). Don't need change file(s) on the Cpanel File Manager interface anymore. However, I'm planning to create a private repo at Bitbucket storing only files inside `public_html` blog folder and syncing with corresponding cPanel files via SSH keys.  
+**Thoughts**: Digging deeper into backend fo a while. Using SSH, I'm now easily able to access files of my sister's blog (which is present inside `public_html` folder). Don't need change file(s) on the cPanel File Manager interface anymore. However, I'm planning to create a private repo at Bitbucket storing only files inside `public_html` blog folder and syncing with corresponding cPanel files via SSH keys.  
 
 **Link(s) to work**
 1. [SSH Command Reference](https://www.ssh.com/ssh/command/)
@@ -142,3 +142,19 @@ PS: The blog is still under-construction and confidential. I'll share the link a
 
 **Link(s) to work**
 1. [BardhanMania 26 - 7 Segment LED | Codepen](https://codepen.io/AshBardhan/details/RgqXBp/)
+
+### Day 13: July 13, 2017 (Thursday)
+
+**Today's Progress**: 
+1. Made a private repository at Bitbucket of `public_html` folder (consisting my sister's blog contents).
+2. Connected this repo with my laptop and remote shared server via SSH keys.  
+
+**Thoughts**: It's bit hectic to change any file inside the code editor of cPanel File Manager. Their interface is not that great, especially manipulating content in multiple files. Plus, I required some version control of `public_html` folder.
+
+So therefore, I made a private repo at Bitbucket of this folder (excluding all media and gallery files). I've also forked this repo on my laptop via SSH, so that I'll be able to code locally and comfortably in [PHPStorm](https://www.jetbrains.com/phpstorm/). :)   
+
+**Link(s) to work**
+1. [Hosting cPanel files to Git Repository](http://monkeylogic.com/using-cpanel-to-host-your-git-repository-and-deploy-automatically/)
+2. [SSH Access to Bitbucket | Atlassian Reference](https://confluence.atlassian.com/bitbucket/use-the-ssh-protocol-with-bitbucket-cloud-221449711.html)
+3. [SSH Access to Bitbucket | StackOverflow Reference](https://stackoverflow.com/questions/16074832/cannot-push-to-git-repository-on-bitbucket)
+4. [Configuring Multiple SSH Keys](https://confluence.atlassian.com/bitbucket/configure-multiple-ssh-identities-for-gitbash-mac-osx-linux-271943168.html)
