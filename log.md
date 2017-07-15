@@ -158,3 +158,16 @@ So therefore, I made a private repo at Bitbucket of this folder (excluding all m
 2. [SSH Access to Bitbucket | Atlassian Reference](https://confluence.atlassian.com/bitbucket/use-the-ssh-protocol-with-bitbucket-cloud-221449711.html)
 3. [SSH Access to Bitbucket | StackOverflow Reference](https://stackoverflow.com/questions/16074832/cannot-push-to-git-repository-on-bitbucket)
 4. [Configuring Multiple SSH Keys](https://confluence.atlassian.com/bitbucket/configure-multiple-ssh-identities-for-gitbash-mac-osx-linux-271943168.html)
+
+### Day 14: July 14, 2017 (Friday)
+
+**Today's Progress**:
+1. Learned HTML5 Canvas animation.
+2. Added animations on the previously made "Peacock" at Codepen.
+3. Experimented animation speed by [altering frame rate](https://twitter.com/CreativeBakchod/status/886124359730855937).
+
+**Thoughts**: There's a some things you've to take care of while doing this, like - clearing the canvas and running animation timing logic before every frame you're "painting" pixels inside. Unlike CSS and SVG animation, you've to write your own timing function (`linear` is easy). However, I was able make my animation slower by increasing the number of frames. It worked by slow-motion camera. That's interesting! ;)
+
+**Link(s) to work**
+1. [Peacock HTML 5 Canvas - Animated | Codepen](https://codepen.io/AshBardhan/pen/ZyPBxN)
+2. [Peacock - One Picture, Different Styles| Codepen](https://codepen.io/collection/nVmEeV/)
