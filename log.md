@@ -171,3 +171,18 @@ So therefore, I made a private repo at Bitbucket of this folder (excluding all m
 **Link(s) to work**
 1. [Peacock HTML 5 Canvas - Animated | Codepen](https://codepen.io/AshBardhan/pen/ZyPBxN)
 2. [Peacock - One Picture, Different Styles| Codepen](https://codepen.io/collection/nVmEeV/)
+
+### Day 15: July 15, 2017 (Saturday)
+
+**Today's Progress**:
+1. Learned about Wordpress file and directory structure.
+2. Ignored and removed core Wordpress folders and files from my private repository.
+
+**Thoughts**: Understanding the complete architecture of Wordpress file system should be better, before starting into code. Previously, I've included in whole `public_html` Wordpress folder from `cPanel` to my private `Bitbucket` repository. I noticed that Wordpress core folders (`wp-admin` and `wp-includes`) and files (`wp-login` , `wp-signup` etc.), which are not supposed to edited are present in my repo. It simply means that I don't need backup for such files.
+
+So therefore, I ignored and removed them from my repo, making sure they're still present on my `cPanel` file system. Now, I only have folders and files, which are supposed to be customized and must be considered as backup.
+
+**Link(s) to work**
+1. [Wordpres File and Directory Structure](http://www.wpbeginner.com/beginners-guide/beginners-guide-to-wordpress-file-and-directory-structure/)
+2. [Wordpress Site Architecture](https://codex.wordpress.org/Site_Architecture_1.5#Core_Structure)
+2. [Wordress Files Backup Idea](http://www.wpbeginner.com/beginners-guide/which-wordpress-files-should-you-backup-and-the-right-way-to-do-it/)
