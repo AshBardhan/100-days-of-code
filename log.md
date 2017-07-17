@@ -183,6 +183,19 @@ So therefore, I made a private repo at Bitbucket of this folder (excluding all m
 So therefore, I ignored and removed them from my repo, making sure they're still present on my `cPanel` file system. Now, I only have folders and files, which are supposed to be customized and must be considered as backup.
 
 **Link(s) to work**
-1. [Wordpres File and Directory Structure](http://www.wpbeginner.com/beginners-guide/beginners-guide-to-wordpress-file-and-directory-structure/)
+1. [Wordpress File and Directory Structure](http://www.wpbeginner.com/beginners-guide/beginners-guide-to-wordpress-file-and-directory-structure/)
 2. [Wordpress Site Architecture](https://codex.wordpress.org/Site_Architecture_1.5#Core_Structure)
 2. [Wordress Files Backup Idea](http://www.wpbeginner.com/beginners-guide/which-wordpress-files-should-you-backup-and-the-right-way-to-do-it/)
+
+### Day 16: July 16, 2017 (Sunday)
+
+**Today's Progress**:
+1. Learned about making child theme at Wordpress.
+2. Created a new child theme and made some tweaks in styling and layout on it.
+
+**Thoughts**: Now I'm coding at Wordpress! :P
+![That's right bitches](http://akns-images.eonline.com/eol_images/Entire_Site/2015315/rs_300x300-150415091312-600.Success-Kid-Sammy-Griner.jl.041515.jpg)
+
+**Link(s) to work**
+1. [Wordpress Theme Development](https://codex.wordpress.org/Theme_Development)
+2. [Making Child Theme at Wordpress Tutorial](http://www.wpbeginner.com/wp-themes/how-to-create-a-wordpress-child-theme-video/)
