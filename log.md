@@ -194,6 +194,7 @@ So therefore, I ignored and removed them from my repo, making sure they're still
 2. Created a new child theme and made some tweaks in styling and layout on it.
 
 **Thoughts**: Now I'm coding at Wordpress! :P
+
 ![That's right bitches](http://akns-images.eonline.com/eol_images/Entire_Site/2015315/rs_300x300-150415091312-600.Success-Kid-Sammy-Griner.jl.041515.jpg)
 
 **Link(s) to work**
