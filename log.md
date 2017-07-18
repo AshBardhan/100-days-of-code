@@ -200,3 +200,14 @@ So therefore, I ignored and removed them from my repo, making sure they're still
 **Link(s) to work**
 1. [Wordpress Theme Development](https://codex.wordpress.org/Theme_Development)
 2. [Making Child Theme at Wordpress Tutorial](http://www.wpbeginner.com/wp-themes/how-to-create-a-wordpress-child-theme-video/)
+
+### Day 17: July 18, 2017 (Tuesday)
+
+**Today's Progress**:
+1. Still working on Sister's fashion blog
+- Brought back `wp-includes` core Wordpress files from the source code, to understand some default component generating functions.
+- Customized some of those functions inside `functions.php` file of my current theme folder.
+
+**Thoughts**: Coding at Wordpress is fun! :P
+
+**Link(s) to work** Working on a private project. Will share link once I launch the website.
