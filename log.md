@@ -203,10 +203,18 @@ So therefore, I ignored and removed them from my repo, making sure they're still
 
 ### Day 17: July 18, 2017 (Tuesday)
 
-**Today's Progress**:
-1. Still working on Sister's fashion blog
-- Brought back `wp-includes` core Wordpress files from the source code, to understand some default component generating functions.
-- Customized some of those functions inside `functions.php` file of my current theme folder.
+**Today's Progress**: Still working on Sister's fashion blog
+1. Brought back `wp-includes` core Wordpress files from the source code, to understand some default component generating functions.
+2. Customized some of those functions inside `functions.php` file of my current theme folder.
+
+**Thoughts**: Coding at Wordpress is fun! :P
+
+**Link(s) to work** Working on a private project. Will share link once I launch the website.
+
+### Day 18: July 19, 2017 (Wednesday)
+
+**Today's Progress**: Still working on Sister's fashion blog
+1. Installed and activated `Instagram` plugin inside the blog, making some layout and styling changes on it.
 
 **Thoughts**: Coding at Wordpress is fun! :P
 
