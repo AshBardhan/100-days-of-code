@@ -219,3 +219,12 @@ So therefore, I ignored and removed them from my repo, making sure they're still
 **Thoughts**: Coding at Wordpress is fun! :P
 
 **Link(s) to work** Working on a private project. Will share link once I launch the website.
+
+### Day 19: July 20, 2017 (Thursday)
+
+**Today's Progress**: Still working on Sister's fashion blog
+1. Tweaked styling and layout of multiple components like - sidebar, footer, blog-content, anchor-tags etc.
+
+**Thoughts**: Rebuild, Redesign and Rework! Too Much Fun! :P
+
+**Link(s) to work** Working on a private project. Will share link once I launch the website.
