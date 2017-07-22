@@ -228,3 +228,17 @@ So therefore, I ignored and removed them from my repo, making sure they're still
 **Thoughts**: Rebuild, Redesign and Rework! Too Much Fun! :P
 
 **Link(s) to work** Working on a private project. Will share link once I launch the website.
+
+### Day 20: July 21, 2017 (Friday)
+
+**Today's Progress**:
+1. Tweaked some more styling and layout of multiple components.
+2. Added responsiveness in the website using `media-queries`. 
+3. Removed all maintenance page redirect from `.htaccess` file and launched the website.
+
+**Thoughts**: Finally, the day has come. It was really a tough assignment to do. I've launched a website for the first time. Started from purchasing a domain/hosting to understanding and coding in `PHP` till I made it live. I'm so happy and proud of myself. :)
+
+However, I'll be doing some refactoring and UI tweaks on my own. I've also shared my work with my fellow developers and designers. All eyes and open for honest feedbacks.
+
+**Link(s) to work** 
+1. [My Sister's Fashion Blog](http://realgirltalks.com/)
