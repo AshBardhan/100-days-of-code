@@ -238,7 +238,9 @@ So therefore, I ignored and removed them from my repo, making sure they're still
 
 **Thoughts**: Finally, the day has come. It was really a tough assignment to do. I've launched a website for the first time. Started from purchasing a domain/hosting to understanding and coding in `PHP` till I made it live. I'm so happy and proud of myself. :)
 
-However, I'll be doing some refactoring and UI tweaks on my own. I've also shared my work with my fellow developers and designers. All eyes and open for honest feedbacks.
+However, I'll be doing some refactoring and UI tweaks for a while. I've also shared my work with my fellow developers and designers. All eyes and open for honest feedbacks.
+
+![I finally did it](http://m.memegen.com/a42ebx.jpg)
 
 **Link(s) to work** 
 1. [My Sister's Fashion Blog](http://realgirltalks.com/)
