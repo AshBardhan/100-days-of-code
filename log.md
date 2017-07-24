@@ -244,3 +244,19 @@ However, I'll be doing some refactoring and UI tweaks for a while. I've also sha
 
 **Link(s) to work** 
 1. [My Sister's Fashion Blog](http://realgirltalks.com/)
+
+### Day 21: July 24, 2017 (Monday)
+
+**Today's Progress**:
+1. Revised the basics of HTML, CSS, JS and jQuery, with the help of `freeCodeCamp`.
+2. Completed their 23 hrs of lessons within 3 hrs so far.
+
+**Thoughts**: Just a quick revision of basic frontend skills. I've joined `freeCodeCamp` months ago. But started taking their course since yesterday. 
+
+It's really a good place to code real-time, especially for those who are just starting it. Although you must refer other sources (perhaps a book) to get deeper into the concepts they're explaining.
+
+Looking forward to complete their advanced courses and work on their non-profit projects with fellow developers soon. ;)
+
+**Link(s) to work** 
+1. [freeCodeCamp | Tutorial](https://www.freecodecamp.org)
+2. [freeCodeCamp | My Account Progress](https://www.freecodecamp.org/ashbardhan)
