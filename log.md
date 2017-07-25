@@ -260,3 +260,12 @@ Looking forward to complete their advanced courses and work on their non-profit 
 **Link(s) to work** 
 1. [freeCodeCamp | Tutorial](https://www.freecodecamp.org)
 2. [freeCodeCamp | My Account Progress](https://www.freecodecamp.org/ashbardhan)
+
+### Day 22: July 25, 2017 (Tuesday)
+
+**Today's Progress**:  Updated minor UI tweaks in some components like - Blog content tags and Slider caption box, of my Sister's fashion blog.
+
+**Thoughts**: Few changes were recommended by friends and colleagues after the website's launch.
+
+**Link(s) to work** 
+1. [My Sister's Fashion Blog](http://realgirltalks.com/)
