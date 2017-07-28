@@ -269,3 +269,23 @@ Looking forward to complete their advanced courses and work on their non-profit 
 
 **Link(s) to work** 
 1. [My Sister's Fashion Blog](http://realgirltalks.com/)
+
+### Day 23: July 28, 2017 (Friday)
+
+**Today's Progress**: Attended the first day of [JS Channel 2017](http://2017.jschannel.com/) Conference at Bangalore, India. Learned from the following talks:
+1. Keynote by Preethi Kasireddy
+2. State maintenance with Redux in a multi layered JavaScript Application by Varsha Saha
+3. Service Worker and The Role they Play in Modern-day Web Apps by Mukul Jain
+4. Building Cross Platform Desktop Applications Using Electron by Rahul Rout
+5. Building applications for the next billion users by Siddharth Kshetrapal
+6. Workshop on styled-components by Max Stoiber
+7. Demand Driven Applications with GraphQL by Vinci Rufus
+8. Animation in VueJS by Sarah Drasner
+
+**Thoughts**: This is my first conference and first trip to Bangalore. I did minor coding during workshop session, but learned quite a lot from the speakers. I got inspired from many of them especially a 10 year old coder, who has made 3 Minecraft Mods so far. Impressive!
+
+Being an UI developer (as I mostly work on HTML and CSS), it was quite challenging for me to understand advanced concepts and new frameworks of JavaScript. But I was familiar with ReactJS and Electron, as I've done some minor projects using them in the past. Quite a lot of things have changed now in React. Will catch up on it sooner. :) 
+
+**Link(s) to work** 
+1. [Simone Parekh - 10 year old coder | YouTube](https://www.youtube.com/channel/UCPGKU_tzBZ-xU7p8hUuZQqA)
+2. [Simone Parekh - 10 year old coder | Website](https://sites.google.com/view/xlargehamster/)
