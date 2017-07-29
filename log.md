@@ -284,8 +284,24 @@ Looking forward to complete their advanced courses and work on their non-profit 
 
 **Thoughts**: This is my first conference and first trip to Bangalore. I did minor coding during workshop session, but learned quite a lot from the speakers. I got inspired from many of them especially a 10 year old coder, who has made 3 Minecraft Mods so far. Impressive!
 
-Being an UI developer (as I mostly work on HTML and CSS), it was quite challenging for me to understand advanced concepts and new frameworks of JavaScript. But I was familiar with ReactJS and Electron, as I've done some minor projects using them in the past. Quite a lot of things have changed now in React. Will catch up on it sooner. :) 
+Being an UI developer (as I mostly work on `HTML` and `CSS`), it was quite challenging for me to understand advanced concepts and new frameworks of JavaScript. But I was familiar with ReactJS and Electron, as I've done some minor projects using them in the past. Quite a lot of things have changed now in React. Will catch up on it sooner. :) 
 
 **Link(s) to work** 
 1. [Simone Parekh - 10 year old coder | YouTube](https://www.youtube.com/channel/UCPGKU_tzBZ-xU7p8hUuZQqA)
 2. [Simone Parekh - 10 year old coder | Website](https://sites.google.com/view/xlargehamster/)
+
+### Day 24: July 29, 2017 (Saturday)
+
+**Today's Progress**: Attended the second day of [JS Channel 2017](http://2017.jschannel.com/) Conference at Bangalore, India. Learned from the following talks:
+1. JavaScript V8 engine by Franziska Hinkelmann
+2. Dealing with Data Offline in Web Apps by Jai Santosh
+3. Building beautiful interfaces in React Native by Sanket Sahu
+4. Super-charged Developer Tools for React Native by Parashuram N
+5. Workshop on U `&` I with React by Farhad Ghayour
+6. Keynote on ReactJS by Andrew Clark
+
+**Thoughts**: Overall this was more of a `ReactJS` Conference, as most of the speakers talked about `React`, `Redux` and its associated tools. They've given the use cases of the B2C websites of today, which require high performance in page rendering speed.
+
+Although there is no separation of concerns as everything `HTML` and `CSS` wrapped in `JS` now. It requires some level of skills to understand that. Will be practising on it sonner. ;)
+ 
+**Link(s) to work**: No links added
