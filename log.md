@@ -85,3 +85,16 @@ The log of my #100DaysOfCode challenge. Started on [May 28, Monday, 2024].
 1. [Free React Course | Caleb Curry](https://www.codebreakthrough.com/view/courses/free-react-course)
 2. [Tailwind CSS | Documentation](https://tailwindcss.com/docs/guides/create-react-app)
 3. [React Bootstrap | Documentation](https://react-bootstrap.netlify.app/docs/getting-started/introduction)
+
+### Day 6: June 7, 2024 (Friday)
+
+**Today's Progress**:
+
+1. Continue practising `React` with tutorials from @CalebCurry.
+2. Understood more about routing (pages and params), `useEffect` hook and `fetch` API request.
+
+**Thoughts**: I've finished 27/100 video lectures so far.
+
+**Link(s) to work**:
+
+1. [Free React Course | Caleb Curry](https://www.codebreakthrough.com/view/courses/free-react-course)
