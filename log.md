@@ -22,8 +22,8 @@ The log of my #100DaysOfCode challenge. Started on [May 28, Monday, 2024].
 
 **Link(s) to work**:
 
-1. [A11y | IxDF](https://www.interaction-design.org/courses/accessibility-how-to-design-for-all?gad_source=1&gclid=Cj0KCQjw3tCyBhDBARIsAEY0XNmeWQy_Rx92ScjkwZTNfRh63UiRi1cgsH0ZnfdZXhdvambpvqbRirAaAj_JEALw_wcB)
-2. [A11y | web.dev](https://web.dev/learn/accessibility/welcome?_gl=1*1vuna2l*_up*MQ..&gclid=Cj0KCQjwjLGyBhCYARIsAPqTz18rJRu5SMR0riWdvYq-J36Ffdla2fn-k25uB-nAbrQwi90ROH9u60waAjqaEALw_wcB)
+1. [A11y | IxDF](https://www.interaction-design.org/courses/accessibility-how-to-design-for-all)
+2. [A11y | web.dev](https://web.dev/learn/accessibility/welcome)
 
 ### Day 2: May 31, 2024 (Friday)
 
@@ -71,7 +71,7 @@ The log of my #100DaysOfCode challenge. Started on [May 28, Monday, 2024].
 
 **Today's Progress**:
 
-1. Continue practising `React` with tutorials from @CalebCurry.
+1. Continue practising `React` with tutorials.
 2. Implement `Tailwind CSS` and `React Bootstrap` into this `React` app for styling and pre-defined components respectively.
 3. Developed more functionalities into this app:
     - Display a list of items
@@ -90,7 +90,7 @@ The log of my #100DaysOfCode challenge. Started on [May 28, Monday, 2024].
 
 **Today's Progress**:
 
-1. Continue practising `React` with tutorials from @CalebCurry.
+1. Continue practising `React` with tutorials.
 2. Understood more about routing (pages and params), `useEffect` hook and `fetch` API request.
 
 **Thoughts**: I've finished 27/100 video lectures so far.
@@ -98,3 +98,21 @@ The log of my #100DaysOfCode challenge. Started on [May 28, Monday, 2024].
 **Link(s) to work**:
 
 1. [Free React Course | Caleb Curry](https://www.codebreakthrough.com/view/courses/free-react-course)
+
+### Day 7: June 9, 2024 (Sunday)
+
+**Today's Progress**:
+
+1. Continue practising `React` with tutorials.
+2. Implemented a backend API service using `Django` framework and wrote down some `GET` request in `Python`.
+3. Studied first module of `User Experience (UX)` course from `IxDf`, where I amd able to understand about UX and essential skills required to be a UX designer.
+
+**Thoughts**: Being a frontend developer, It's been ages since I've programmed anything in Python let alone working in its Django framework. I felt a bit overwhelemed working on this backend service, especially when I struggled during package installation and essential commands to run the entire application. However, the tutorials helped me understand the Django boilerplate and its environment much better. I might go deep dive in future when I'll be interested wroking as a fullstack developer.
+
+I've finished 33/100 video lectures so far.
+
+**Link(s) to work**:
+
+1. [Free React Course | Caleb Curry](https://www.codebreakthrough.com/view/courses/free-react-course)
+2. [Django | Documentation](https://www.djangoproject.com/start/)
+3. [UX Designer Beginners Guide | IxDF](https://www.interaction-design.org/courses/user-experience-the-beginner-s-guide)
