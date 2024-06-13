@@ -105,7 +105,7 @@ The log of my #100DaysOfCode challenge. Started on [May 28, Monday, 2024].
 
 1. Continue practising `React` with tutorials.
 2. Implemented a backend API service using `Django` framework and wrote down some `GET` request in `Python`.
-3. Studied first module of `User Experience (UX)` course from `IxDf`, where I amd able to understand about UX and essential skills required to be a UX designer.
+3. Studied first module of `User Experience (UX)` course from `IxDf`, where I was able to understand about UX and essential skills required to be a UX designer.
 
 **Thoughts**: Being a frontend developer, It's been ages since I've programmed anything in Python let alone working in its Django framework. I felt a bit overwhelemed working on this backend service, especially when I struggled during package installation and essential commands to run the entire application. However, the tutorials helped me understand the Django boilerplate and its environment much better. I might go deep dive in future when I'll be interested wroking as a fullstack developer.
 
@@ -116,3 +116,31 @@ I've finished 33/100 video lectures so far.
 1. [Free React Course | Caleb Curry](https://www.codebreakthrough.com/view/courses/free-react-course)
 2. [Django | Documentation](https://www.djangoproject.com/start/)
 3. [UX Designer Beginners Guide | IxDF](https://www.interaction-design.org/courses/user-experience-the-beginner-s-guide)
+
+### Day 8: June 11, 2024 (Tuesday)
+
+**Today's Progress**:
+
+1. Continue practising `React` with tutorials.
+2. Create a full `CRUD` API request at `Django` backend and intergrate with `React` frontend to render the results.
+
+**Thoughts**: I've finished 40/100 video lectures so far.
+
+**Link(s) to work**:
+
+1. [Free React Course | Caleb Curry](https://www.codebreakthrough.com/view/courses/free-react-course)
+
+### Day 9: June 13, 2024 (Thursday)
+
+**Today's Progress**:
+
+1. Studied third module of `Web A11y` course from `IxDF` and `web.dev` course materials, where I was able to understand to code optimisation for website / mobile accessibility.
+2. Practiced my `React` skills in `Frontend Development Libraries` certification course by `FreeCodeCamp`.
+
+**Thoughts**: I struggled a little while coding their exercises in `Class Components` since I'm familiar with new `Functional Component` format adopted in modern `React` versions. But still I managed to complete all of the exercises as my fundamental concepts were clear despite a few change in syntax.
+
+**Link(s) to work**:
+
+1. [A11y | IxDF](https://www.interaction-design.org/courses/accessibility-how-to-design-for-all)
+2. [A11y | web.dev](https://web.dev/learn/accessibility/welcome)
+3. [React Practice | FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/#react)
