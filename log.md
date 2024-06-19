@@ -115,7 +115,7 @@ I've finished 33/100 video lectures so far.
 
 1. [Free React Course | Caleb Curry](https://www.codebreakthrough.com/view/courses/free-react-course)
 2. [Django | Documentation](https://www.djangoproject.com/start/)
-3. [UX Designer Beginners Guide | IxDF](https://www.interaction-design.org/courses/user-experience-the-beginner-s-guide)
+3. [UX Designer Beginner's Guide | IxDF](https://www.interaction-design.org/courses/user-experience-the-beginner-s-guide)
 
 ### Day 8: June 11, 2024 (Tuesday)
 
@@ -134,7 +134,7 @@ I've finished 33/100 video lectures so far.
 
 **Today's Progress**:
 
-1. Studied third module of `Web A11y` course from `IxDF` and `web.dev` course materials, where I was able to understand to code optimisation for website / mobile accessibility.
+1. Studied third module of `Web A11y` course from `IxDF` and `web.dev`, where I was able to understand to code optimisation for website / mobile accessibility.
 2. Practiced my `React` skills in `Frontend Development Libraries` certification course by `FreeCodeCamp`.
 
 **Thoughts**: I struggled a little while coding their exercises in `Class Components` since I'm familiar with new `Functional Component` format adopted in modern `React` versions. But still I managed to complete all of the exercises as my fundamental concepts were clear despite a few change in syntax.
@@ -144,3 +144,27 @@ I've finished 33/100 video lectures so far.
 1. [A11y | IxDF](https://www.interaction-design.org/courses/accessibility-how-to-design-for-all)
 2. [A11y | web.dev](https://web.dev/learn/accessibility/welcome)
 3. [React Practice | FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/#react)
+
+### Day 10: June 18, 2024 (Tuesday)
+
+**Today's Progress**:
+
+1. Studied second module of `User Experience (UX)` course from `IxDF`, where I was able to understand the elements of UX design and different approaches as a UX designer.
+
+**Thoughts**: I skipped learning and coding for a few days as I was recovering from fever due to exteme heat.
+
+**Link(s) to work**:
+
+1. [UX Designer Beginner's Guide | IxDF](https://www.interaction-design.org/courses/user-experience-the-beginner-s-guide)
+
+### Day 11: June 19, 2024 (Wednesday)
+
+**Today's Progress**:
+
+1. Studied first module of `UX Portfolio` course from `IxDF`, where I was able to understand importance of a UX portfolio and Case Studies with common UX roles.
+
+**Thoughts**: One of UX roles - UX Unicorn (a.k.a UX Engineer) is something I have my eyes on as I was working in that particular profile to some extent at my previous organisation. I want to explore and do more things in this line of work.
+
+**Link(s) to work**:
+
+1. [How to create a UX Portfolio | IxDF](https://www.interaction-design.org/courses/how-to-create-a-ux-portfolio)
