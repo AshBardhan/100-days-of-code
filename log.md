@@ -143,7 +143,7 @@ I've finished 33/100 video lectures so far.
 
 1. [A11y | IxDF](https://www.interaction-design.org/courses/accessibility-how-to-design-for-all)
 2. [A11y | web.dev](https://web.dev/learn/accessibility/welcome)
-3. [React Practice | FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/#react)
+3. [React Certification Course | FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/#react)
 
 ### Day 10: June 18, 2024 (Tuesday)
 
@@ -168,3 +168,17 @@ I've finished 33/100 video lectures so far.
 **Link(s) to work**:
 
 1. [How to create a UX Portfolio | IxDF](https://www.interaction-design.org/courses/how-to-create-a-ux-portfolio)
+
+### Day 12: June 21, 2024 (Friday)
+
+**Today's Progress**:
+
+1. Studied third module of `User Experience (UX)` course from `IxDF`, where I was able to understand the problem space (Empathize and Ideate phases) of design thinking.
+2. Practised my JavaScript fundamentals skills in `JavaScript Algo and DS` certification course by `FreeCodeCamp`.
+
+**Thoughts**: Brushed up my JS skills by firstly solving their mini practice project. Since every project had like 60-80 stepwise exercises, I skipped every 5-6 exercise in between to catch up with important exercises. And then, I took enough time to complete their certifcation projects. Finished 3/5 projects so far.
+
+**Link(s) to work**:
+
+1. [UX Designer Beginner's Guide | IxDF](https://www.interaction-design.org/courses/user-experience-the-beginner-s-guide)
+3. [JavaScript DS and Algo Course | FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
