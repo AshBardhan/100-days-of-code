@@ -181,4 +181,19 @@ I've finished 33/100 video lectures so far.
 **Link(s) to work**:
 
 1. [UX Designer Beginner's Guide | IxDF](https://www.interaction-design.org/courses/user-experience-the-beginner-s-guide)
-3. [JavaScript DS and Algo Course | FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+2. [JavaScript DS and Algo Course | FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+
+### Day 13: June 23, 2024 (Sunday)
+
+**Today's Progress**:
+
+1. Continue practising `React` with tutorials.
+2. Implementation of login page with help of `JWT` auth tokens and `localStorage`.
+3. Completed in `JavaScript Algo and DS` certification course by `FreeCodeCamp` by finishing all 5 projects.
+
+**Thoughts**: I've finished 45/100 video lectures so far. Also, These certification projects helped me revising some JS fundamental concepts that I have done in a while. I will be revising more that will help me for interview preparations.
+
+**Link(s) to work**:
+
+1. [Free React Course | Caleb Curry](https://www.codebreakthrough.com/view/courses/free-react-course)
+2. [JavaScript DS and Algo Course | FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
