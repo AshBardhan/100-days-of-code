@@ -197,3 +197,20 @@ I've finished 33/100 video lectures so far.
 
 1. [Free React Course | Caleb Curry](https://www.codebreakthrough.com/view/courses/free-react-course)
 2. [JavaScript DS and Algo Course | FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+
+### Day 14: June 25, 2024 (Tuesday)
+
+**Today's Progress**:
+
+1. Continue practising `React` with tutorials.
+2. Implementation of custom `hook` to fetch data for different pages.
+3. Revising `HTML` from `w3schools` tutorials, understanding the basic fundamentals and some web APIs like - `WebSockets` and `SSE`.
+4. Revising `CSS` from `w3schools` tutorials, understanding the basic fundamentals and some advanced concepts.
+
+**Thoughts**: I've finished 53/100 video lectures so far.
+
+**Link(s) to work**:
+
+1. [Free React Course | Caleb Curry](https://www.codebreakthrough.com/view/courses/free-react-course)
+2. [HTML Tutorials | w3schools](https://www.w3schools.com/html/default.asp)
+3. [CSS Tutorials | w3schools](https://www.w3schools.com/css/default.asp)
