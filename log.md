@@ -173,7 +173,7 @@ I've finished 33/100 video lectures so far.
 
 **Today's Progress**:
 
-1. Studied third module of `User Experience (UX)` course from `IxDF`, where I was able to understand the problem space (Empathize and Ideate phases) of design thinking.
+1. Studied third module of `User Experience (UX)` course from `IxDF`, where I was able to understand the problem space (Empathize and Define phases) of the Design Thinking process.
 2. Practised my JavaScript fundamentals skills in `JavaScript Algo and DS` certification course by `FreeCodeCamp`.
 
 **Thoughts**: Brushed up my JS skills by firstly solving their mini practice project. Since every project had like 60-80 stepwise exercises, I skipped every 5-6 exercise in between to catch up with important exercises. And then, I took enough time to complete their certifcation projects. Finished 3/5 projects so far.
@@ -214,3 +214,13 @@ I've finished 33/100 video lectures so far.
 1. [Free React Course | Caleb Curry](https://www.codebreakthrough.com/view/courses/free-react-course)
 2. [HTML Tutorials | w3schools](https://www.w3schools.com/html/default.asp)
 3. [CSS Tutorials | w3schools](https://www.w3schools.com/css/default.asp)
+
+### Day 15: June 26, 2024 (Wednesday)
+
+**Today's Progress**:
+
+1. Studied fourth module of `User Experience (UX)` course from `IxDF`, where I was able to understand the solution space (Ideate, Prototype and Test) of the Design Thinking process.
+
+**Link(s) to work**:
+
+1. [UX Designer Beginner's Guide | IxDF](https://www.interaction-design.org/courses/user-experience-the-beginner-s-guide)
