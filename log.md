@@ -1,6 +1,6 @@
 # #100DaysOfDesignAndCode Log | Round 2 | [Ashish Bardhan]
 
-The log of my #100DaysOfCode challenge. Started on [May 28, Monday, 2024].
+The log of my #100DaysOfDesignAndCode challenge. Started on [May 27, Monday, 2024](#day-1-may-27-2024-monday).
 
 ### Day 0 (Prerequisites): May 26, 2024 (Sunday)
 
@@ -224,3 +224,17 @@ I've finished 33/100 video lectures so far.
 **Link(s) to work**:
 
 1. [UX Designer Beginner's Guide | IxDF](https://www.interaction-design.org/courses/user-experience-the-beginner-s-guide)
+
+### Day 16: June 30, 2024 (Sunday)
+
+**Today's Progress**:
+
+1. Completed in `Responsive Web Design` certification course by `FreeCodeCamp` by finishing all 5 projects.
+2. Created a cool animation of Steve Jobs using pure `HTML and CSS`, inspired by Andy Warhol's Pop Art on the occasion of Pride Month.
+
+**Thoughts**: These certification projects helped me revising some HTML and CSS basic. I will improve the styling and templates more in future.
+
+**Link(s) to work**:
+
+1. [Responsive Web Design | FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+2. [Steve Jobs x Warhol HTML/CSS Artwork | CodePen](https://codepen.io/AshBardhan/full/bGzXzjL)
