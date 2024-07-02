@@ -204,8 +204,8 @@ I've finished 33/100 video lectures so far.
 
 1. Continue practising `React` with tutorials.
 2. Implementation of custom `hook` to fetch data for different pages.
-3. Revising `HTML` from `w3schools` tutorials, understanding the basic fundamentals and some web APIs like - `WebSockets` and `SSE`.
-4. Revising `CSS` from `w3schools` tutorials, understanding the basic fundamentals and some advanced concepts.
+3. Started `HTML` from `w3schools` tutorials, understanding the basic fundamentals and some web APIs like - `WebSockets` and `SSE`.
+4. Started `CSS` from `w3schools` tutorials, understanding the basic fundamentals and some advanced concepts.
 
 **Thoughts**: I've finished 53/100 video lectures so far.
 
@@ -238,3 +238,17 @@ I've finished 33/100 video lectures so far.
 
 1. [Responsive Web Design | FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 2. [Steve Jobs x Warhol HTML/CSS Artwork | CodePen](https://codepen.io/AshBardhan/full/bGzXzjL)
+
+### Day 17: July 1, 2024 (Monday)
+
+**Today's Progress**:
+
+1. Studied the foundation of `Redux` state management library, from the official documentation.
+2. Practiced `Redux` skills in `Frontend Development Libraries` certification course by `FreeCodeCamp`.
+
+**Thoughts**: Learning `Redux` is a bit confusing (especially with the syntax). But I'm getting used to with this, once I understaood the basics.
+
+**Link(s) to work**:
+
+1. [Redux | Official Documentation](https://redux.js.org/introduction/getting-started)
+2. [Redux Certification Course | FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/#redux)
