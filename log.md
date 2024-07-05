@@ -252,3 +252,25 @@ I've finished 33/100 video lectures so far.
 
 1. [Redux | Official Documentation](https://redux.js.org/introduction/getting-started)
 2. [Redux Certification Course | FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/#redux)
+
+### Day 18: July 3, 2024 (Wednesday)
+
+**Today's Progress**:
+
+1. Continued studying more about the fundamentals of `Redux` state management library, integrating with a `React` project.
+2. Practiced `Redux and React` skills in `Frontend Development Libraries` certification course by `FreeCodeCamp`.
+
+**Link(s) to work**:
+
+1. [Redux Fundamentals | Official Documentation](https://redux.js.org/tutorials/fundamentals/part-1-overview)
+2. [React and Redux Certification Course | FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-libraries/#react-and-redux)
+
+### Day 19: July 4, 2024 (Thursday)
+
+**Today's Progress**:
+
+1. Studied second module of `UX Portfolio` course from `IxDF`, discussing about write the perfect introduction, middle and conclusion of UX case studies.
+
+**Link(s) to work**:
+
+1. [How to create a UX Portfolio | IxDF](https://www.interaction-design.org/courses/how-to-create-a-ux-portfolio)
