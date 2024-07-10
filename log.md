@@ -274,3 +274,13 @@ I've finished 33/100 video lectures so far.
 **Link(s) to work**:
 
 1. [How to create a UX Portfolio | IxDF](https://www.interaction-design.org/courses/how-to-create-a-ux-portfolio)
+
+### Day 20: July 5, 2024 (Friday)
+
+**Today's Progress**:
+
+1. Studied final module of `User Experience (UX)` course from `IxDF`, where I was able to understand the role of designer in the software product life cycle and agile methodologies.
+
+**Link(s) to work**:
+
+1. [UX Designer Beginner's Guide | IxDF](https://www.interaction-design.org/courses/user-experience-the-beginner-s-guide)
