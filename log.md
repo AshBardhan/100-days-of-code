@@ -284,3 +284,25 @@ I've finished 33/100 video lectures so far.
 **Link(s) to work**:
 
 1. [UX Designer Beginner's Guide | IxDF](https://www.interaction-design.org/courses/user-experience-the-beginner-s-guide)
+
+### Day 21: July 8, 2024 (Monday)
+
+**Today's Progress**:
+
+1. Revised `JavaScript` fundamentals from multiple resources, for an upcoming interview.
+
+**Link(s) to work**:
+
+1. [The Modern JavaScript Tutorial](https://javascript.info/)
+2. [JavaScript | MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### Day 22: July 9, 2024 (Tuesday)
+
+**Today's Progress**:
+
+1. Revised `TypeScript` fundamentals from multiple resources, for an upcoming interview.
+
+**Link(s) to work**:
+
+1. [TypeScript Tutorial](https://www.typescripttutorial.net/)
+2. [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
